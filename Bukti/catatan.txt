@@ -1,0 +1,17 @@
+xyz
+
+
+
+merekam transaksi
+
+dapat memperlihatkan kesalahan yang terjadi (menggunakan message box yang dibantu dengan try catch  finally)
+python atau c#
+menggunakan komen
+
+menyimpan data pembeli, data penjulalan, data buku, data transaksi pembayaran
+
+kategori, j-transaksi, j_pembayaran(tunai atau non-tunai), user, 
+
+class diagram
+
+ 
