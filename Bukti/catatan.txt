@@ -4,6 +4,8 @@ xyz
 
 merekam transaksi
 
+waterfall
+
 dapat memperlihatkan kesalahan yang terjadi (menggunakan message box yang dibantu dengan try catch  finally)
 python atau c#
 menggunakan komen
